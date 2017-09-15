@@ -1,0 +1,312 @@
+
+    
+#form{
+   border-top-style: solid;
+    position: relative;
+    color: black;
+    grid-auto-rows: auto;
+    background-position: right;
+    align-items: center;
+   
+     background-color: #ffffff;
+    border: 1px;
+    border-width: thin;
+    width: 10%;
+    float: left;
+    border-style: ridge;
+    border-color: black;
+    height: 310px;
+    margin-left: 150px;
+   
+    
+ 
+    
+}
+#Logbtn{
+    margin-left: 50px;
+    font-size: 20px;
+    width: 50%;
+    
+}
+#home-sub-head{
+    margin-left: 150px;
+}
+#image{
+    margin-right:300px;
+}
+#sub-head{
+    margin-left: 800px;
+    font-size: 50px;
+    margin-top: -125px;
+ 
+
+}
+
+#practical{
+    border-top-style: solid;
+
+    position: relative;
+    color: black;
+    column-gap: normal;
+    grid-auto-rows: auto;
+    background-position: right;
+    align-items: left;
+   
+     background-color: #ffffff;
+    border: 1px;
+    border-width: thin;
+    width: 30%;
+    border-style: ridge;
+    border-color: black;
+    height: 400px;
+    margin-top: 42px;
+    
+    
+    float: right;
+    margin-right: 175px;
+     
+    
+    
+    
+}
+
+#theory-heading{
+    margin-left: 300px;
+   margin-top: -10px;
+    font-size: 50PX;
+}
+#theory{
+    border-top-style: solid;
+        border-top-style: solid;
+
+    position: relative;
+    color: black;
+    column-gap: normal;
+    grid-auto-rows: auto;
+    background-position: right;
+    align-items: left;
+   
+     background-color: #ffffff;
+    border: 1px;
+    border-width: thin;
+    width: 30%;
+    float: left;
+    border-style: ridge;
+    border-color: black;
+    height: 400px;
+    margin-left: 200px;
+    margin-top: 43px;
+
+    
+    
+}
+input{
+    height: 18px;
+    width: 160px;
+    font-size: 18px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+#text{
+ color: #6285c6;
+    float: right;
+    border-style: dotted;
+    margin-right: 300px;
+    margin-top: 40px;
+    width: 40%;
+
+    
+ }
+#loginHead{
+    margin-left: 500px;
+}
+#frm{
+   
+
+     background-color: #ffffff;
+    border: 0px;
+    border-width: thick;
+    width: 29%;
+    border-top-style:hidden;
+    float: left;
+    height: 300px;
+    margin-left: 500px;
+    
+    
+}
+
+#form{
+    background-color: #ffffff;
+    border: 0px;
+    border-width: thick;
+    width: 29%;
+    border-top-style:hidden;
+    float: left;
+    height: 400px;
+}
+#subject-heading{
+    margin-left: 550px;
+    font-size: 50px;
+     
+}
+#footer{
+    padding: 5px;
+    text-align: left;
+    color: black;
+
+  
+}
+    
+#wrap {
+   background-color: #7bb9f0;
+    width: 100%;
+    height: 50px;
+    float: left;
+    background-image: url(http://www.saverwallpaper.com/wp-content/uploads/2016/07/Blue-Colors-Simple-Wallpaper.png)
+        
+}
+#btn{
+    padding: 8px 16px;
+    display: inline-block;
+    border border-radius: 10px;
+    float: inherit;
+    margin-left: 150px;
+    margin-top: 27px;
+    font-size: 20px;
+    width: 30%;
+    height: 40px;
+    
+background-color: lightgrey;
+}
+h3{
+    color: #101314;
+
+}
+#sub-heading{
+    float: right;
+}
+h1{
+    color: black;
+    text-align-last: center;
+    background-color: #ffffff;
+    height: 50px;
+    width: 100%;
+   
+    position:relative;
+    
+}
+h2{
+    text-align-last: center;
+    color: #1a1c1d;
+    margin-left: 300px;
+}
+
+    
+#head2{
+    font-size: x-large;
+    font-style: italic;
+    font font-weight: 400;
+    color: darkorange;
+    height: 400px;
+    width: 600px;
+    margin: center;
+    position: static;
+    object-position: right;
+}
+body {
+    background: #ffffff;
+
+    font: 20px Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+    
+#nav {
+    margin: 200px;
+    z-index: 999;
+margin-top: -0px;
+    padding :-50px;
+    padding-right: 100px;
+    float: center;
+    top: 0px;
+    left: 0px;
+    width: 65%;
+    position:relative;
+    list-style-type: none;
+
+   
+    
+    
+}
+    #nav li { float: left; }
+    #nav li:hover { position: relative }
+    #nav li:hover > a { 
+            background: #cbcbcb; 
+            
+            box-shadow: 5px 5px 25px #000;
+            -moz-box-shadow: 5px 5px 25px #000;
+            -webkit-box-shadow: 5px 5px 25px #000;
+    
+             border-radius: 10px;
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px;                  
+        }
+            #nav li.sub:hover > a {
+                border-radius: 10px 10px 0 0;
+                -moz-border-radius: 10px 10px 0 0;
+                -webkit-border-radius: 10px 10px 0 0;        
+            }
+
+            #nav li a {
+                color: #ffffff;
+                font-weight: bold;
+                text-decoration: none;
+                padding: 12px;
+                display: block;
+            }
+                #nav li a:hover { background-color: #c4c4c4; }        
+                    
+    #nav li ul { 
+        background: #b7bceb;
+        margin-top: -2px;
+        display: none;   
+    }
+        #nav li:hover ul {
+            display:block; 
+            position:absolute; 
+        }
+
+#Email{
+    text-align-last: right;
+}
+
+        #nav li ul {
+            background:#c8e6e2;
+            padding: 10px 5px;
+            
+            box-shadow: 5px 5px 25px #000;
+            -moz-box-shadow: 5px 5px 25px #000;
+            -webkit-box-shadow: 5px 5px 25px #000;
+            
+            border-radius: 0px 15px 15px 15px;
+            -moz-border-radius: 0px 15px 15px 15px;
+            -webkit-border-radius: 0px 5px 5px 5px;
+        }
+            #nav li ul li a, #nav li ul li a:hover {
+                background: transparent;
+                color: #222221;
+                width: 150px;
+                font-size: 0.95em;
+                font-weight: normal;
+            }
+                #nav li ul li a:hover { text-decoration: underline; 
+                    box-shadow: none;
+                    -moz-box-shadow: none;
+                    -webkit-box-shadow: none;
+                            
+                    border-radius: 0;
+                    -moz-border-radius: 0;
+                    -webkit-border-radius: 0;
+                }
